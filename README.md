@@ -1,3 +1,3 @@
-# First web page.
+# First web page
 
 Welcome!
